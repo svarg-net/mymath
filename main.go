@@ -18,6 +18,13 @@ func Pow(x, y float64) float64 {
 func Max(x, y float64) float64 {
 	return math.Max(x, y)
 }
+
 func Min(x, y float64) float64 {
 	return math.Min(x, y)
+}
+func Abs()float64{
+	return math.Abs(x) 
+}
+func Yn(n int,x float64, )float64{
+	return math.Yn(x float64) 
 }
